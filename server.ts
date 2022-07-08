@@ -40,6 +40,7 @@ app.get("/stations", async (req, res) => {
 
 });
 
+// Once you have the 
 // app.get("/closest/:station1/:station2", async (req, res)=>{
 //   try{
 //     const station1 = req.params.station1;
@@ -53,6 +54,7 @@ app.get("/stations", async (req, res) => {
 //     console.error(error)  
 //   }
 // });
+
 
 
 
